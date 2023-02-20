@@ -25,6 +25,7 @@ type Config struct {
 	GroupBy      GroupByConfig      `json:"group_by" yaml:"group_by"`
 	GroupByValue GroupByValueConfig `json:"group_by_value" yaml:"group_by_value"`
 	InsertPart   InsertPartConfig   `json:"insert_part" yaml:"insert_part"`
+	JavaScript   JavaScriptConfig   `json:"javascript" yaml:"javascript"`
 	JMESPath     JMESPathConfig     `json:"jmespath" yaml:"jmespath"`
 	JQ           JQConfig           `json:"jq" yaml:"jq"`
 	JSONSchema   JSONSchemaConfig   `json:"json_schema" yaml:"json_schema"`

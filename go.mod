@@ -34,6 +34,8 @@ require (
 	github.com/couchbase/gocb/v2 v2.6.0
 	github.com/denisenkom/go-mssqldb v0.11.0
 	github.com/dgraph-io/ristretto v0.1.0
+	github.com/dop251/goja v0.0.0-20220815083517-0c74f9139fd6
+	github.com/dop251/goja_nodejs v0.0.0-20220808115320-bac29516aae9
 	github.com/dustin/go-humanize v1.0.0
 	github.com/eclipse/paho.mqtt.golang v1.3.5
 	github.com/fatih/color v1.13.0
@@ -172,6 +174,7 @@ require (
 	github.com/danieljoos/wincred v1.1.2 // indirect
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/dgryski/go-rendezvous v0.0.0-20200823014737-9f7001d12a5f // indirect
+	github.com/dlclark/regexp2 v1.7.0 // indirect
 	github.com/docker/cli v20.10.12+incompatible // indirect
 	github.com/docker/docker v20.10.12+incompatible // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
@@ -185,6 +188,7 @@ require (
 	github.com/gabriel-vasile/mimetype v1.4.1 // indirect
 	github.com/go-logr/logr v1.2.3 // indirect
 	github.com/go-logr/stdr v1.2.2 // indirect
+	github.com/go-sourcemap/sourcemap v2.1.3+incompatible // indirect
 	github.com/go-stack/stack v1.8.1 // indirect
 	github.com/godbus/dbus v0.0.0-20190726142602-4481cbc300e2 // indirect
 	github.com/gogo/protobuf v1.3.2 // indirect

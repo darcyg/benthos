@@ -38,6 +38,7 @@ type Config struct {
 	HDFS               HDFSConfig              `json:"hdfs" yaml:"hdfs"`
 	HTTPServer         HTTPServerConfig        `json:"http_server" yaml:"http_server"`
 	Inproc             string                  `json:"inproc" yaml:"inproc"`
+	JavaScript         JavaScriptConfig        `json:"javascript" yaml:"javascript"`
 	Kafka              KafkaConfig             `json:"kafka" yaml:"kafka"`
 	MongoDB            MongoDBConfig           `json:"mongodb" yaml:"mongodb"`
 	MQTT               MQTTConfig              `json:"mqtt" yaml:"mqtt"`
